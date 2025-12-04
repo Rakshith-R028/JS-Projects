@@ -65,13 +65,13 @@ header {
   width: 200px;
   height: 70px;
   padding: 20px 30px;
-  border: none;
   margin-bottom: 10px;
   font-size: 48px;
   border: 4px solid #eee;
   font-family: "Press Start 2P", sans-serif;
   background-color: black;
   color: white;
+  text-align: center;
 }
 
 .btn-check {
